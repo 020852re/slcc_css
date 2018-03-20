@@ -46,16 +46,35 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+.container1 {
+    margin: 17px;
 
-.header h1 {color: #C61414;
-    font-size: 24px;
 }
+.header {
 
-.header h2 {color: #C61414;
-font-size: 20px;
+}
+.social {
+    font-size: 24px;
+    margin: 17px;
+}
+.movies {
+
+}
+.movies h3 {color: #C61414;
+    font-size: 22px;
+    margin: 17px;
 }
 
 .header p {
-    color: #C61414;
+    margin: 17px;
+    color: black;
 font-size: medium}
 
+.header h1 {
+    font-size: 26px;
+    color: black;
+}
+.header h2 {
+    font-size: 24px;
+    color: black;
+}
